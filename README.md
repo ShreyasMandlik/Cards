@@ -4,7 +4,8 @@
 
   ![image](https://github.com/ShreyasMandlik/Cards/assets/66509499/0745b580-669b-43fc-a128-9ffa03e9b361)
 
-##
+## When the images is not present .
+
 
   Onclick of the image the isImagePresent as false i.e Scenario for the image not present. Below is the image for the same.
 
